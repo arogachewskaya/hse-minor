@@ -1,2 +1,1 @@
 # hse-minor
-# hse-minor
